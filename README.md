@@ -1,0 +1,2 @@
+My task was to predict whether the email was spam or not based on its attributes such as length, number of exclamation marks, number of recipients, etc. There were two datasets in the file such as train set and test set. I used train set to fit with the model and test set set 
+on the machine learning algorithms to predict whether the email is spam or not. I used numerous algorithms, and to my finding, lasso regression is the best one.
